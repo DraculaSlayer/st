@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Monocraft:pixelsize=12:autohint=true";
+static char *font = "Monocraft:pixelsize=10";
 // static char *font = "Monocraft:pixelsize=11:antialias=true:autohint=true";
 static int borderpx = 2;
 
